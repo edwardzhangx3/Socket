@@ -1,0 +1,5 @@
+Describe the projects you're most proud of, the most difficult problems you've solved as an engineer, what is your favorite programming language.
+
+The one I am most proud of is my bitcoin wallet project. This is my first time to build up a full-stack project from groud. I used the front-end and back-end techniques all I learned for this project. One of the most challenge problem in this project would be how I master and implement some blockchain technology in my project.
+My favorite prgramming language is Java, Java is my first language and I did a lot projects with Java. I personally love the backend programming, Java is really a great language to help me step into the programming world.
+
